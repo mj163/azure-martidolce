@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61879eb4-531e-4edc-8db6-85ec21164517" name="martidolce.flywheelsites.com" url="https://martidolce.flywheelsites.com/">
+        <fileTransfer host="sftp.flywheelsites.com" port="22" rootFolder="/mrsdo/marti-dolce" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
